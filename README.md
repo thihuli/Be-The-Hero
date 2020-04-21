@@ -8,6 +8,8 @@ serem visualizados por pessoas que se interessem em ajudar.
 O _FRON-END_ foi desenvolvido em _ReactJS_ para ser a página principal com tela de login, sessão de cadastro, tela de acesso da ong com
 com seus respctivos casos, _BACK-END_ desenvolvido em _NodeJS_ com banco de dados em SQLlite e uma aplicação mobile desenenvolvida em _React Native_ tanto para Android e IOS servindo de aplicação de visualisação de casos para pessoas que tenham interesse em ajudar.
 
+Pude aprender nesssa semana de desenvolvimento como aplicar o conhecimento de uma única linguagem para fazer BACKEND, FRONTEND e MOBILE, como trabalhar com bancos de dados 'SQLlite' e usar o a biblioteca knexjs para gerar esse banco, conceitos de estado e imutabilidade, integração do back com front e mobile.
+
 Página de Login:
 
 ![pageLogin](https://user-images.githubusercontent.com/39868114/79819003-7bc71d80-835f-11ea-87ca-b87cb21b6fdf.png)
